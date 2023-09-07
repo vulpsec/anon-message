@@ -5,7 +5,7 @@ API üzerinden her IP için bir kez olmak üzere hedefe bir sms atmanızı sağl
 ## İndirme 
 
 ```bash
-git clone 'https://github.com/morbius-os/anon-message
+git clone https://github.com/morbius-os/anon-message
 
 cd anon-message
 
